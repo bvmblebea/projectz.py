@@ -8,7 +8,7 @@ That made by two developers
 ```python3
 import projz
 ProjectZ = projz.Client()
-ProjectZ.login("", "")
+ProjectZ.login(email="", password="")
 ```
 
 ![projectz_logo](https://www.projz.com/static/media/cover.8ca143fb.png)
