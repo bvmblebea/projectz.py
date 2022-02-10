@@ -6,8 +6,8 @@ That made by two developers
 
 ## Example
 ```python3
-import projz
-ProjectZ = projz.Client()
+import projectz
+ProjectZ = projectz.Client()
 ProjectZ.login(email="", password="")
 ```
 
