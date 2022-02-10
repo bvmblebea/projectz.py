@@ -1,6 +1,6 @@
-import prjz
+import projz
 
-ProjectZ = prjz.Client()
+ProjectZ = projz.Client()
 ProjectZ.login("", "")
 
 ProjectZ.send_message(p.get_joined_chats()["list"][0]["threadId"], "Welcome")
