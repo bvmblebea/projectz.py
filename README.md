@@ -11,4 +11,4 @@ ProjectZ = projectz.Client()
 ProjectZ.login(email="", password="")
 ```
 
-![projectz_logo](https://www.projz.com/static/media/cover.8ca143fb.png)
+![projectz_logo](https://www.projz.com/static/media/screenshot1.86b59f9a.webp)
