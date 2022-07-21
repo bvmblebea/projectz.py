@@ -1,7 +1,7 @@
 # ProjectZ.py
 Library for creating bots in projectz social network
 That made by two developers
-- [deluvsushi](https://github.com/deluvsushi) feat [Zakovskiy](https://github.com/Zakovskiy)
+- [deluvsushi](https://github.com/deluvsushi) & [Zakovskiy](https://github.com/Zakovskiy)
 
 ## Example
 ```python3
