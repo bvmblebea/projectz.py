@@ -1,5 +1,4 @@
-# Library author: github.com/deluvsushi
-# Library author_2: github.com/Zakovskiy
+# Library authors: github.com/zeviel, github.com/Zakovskiy
 import requests
 from hmac import new
 from time import time
